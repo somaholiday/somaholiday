@@ -4,7 +4,7 @@ I'm a software engineer, LED artist, creative technologist, and educator.
 
 I enjoy exploring grey areas between apparent opposites: old / new, hard / soft, art / science
 
-I like working on front end because it's where you can give the user the superpowers you built for them.
+I like working on frontend because it's where you can give the user the superpowers you built for them.
 
 <!--
 **somaholiday/somaholiday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
